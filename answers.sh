@@ -37,12 +37,12 @@ touch Homework/POL141/Essay.txt
 ls ..
 
 # Task 12
-:set number
-:set showmatch
-:syntax on
 ' 
 Type your vim/nano customizations below:
 
+:set number
+:set showmatch
+:syntax on
 
 
 '
